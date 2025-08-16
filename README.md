@@ -43,7 +43,10 @@ DASHBOARD SNAPSHOTS
 
 TOOLS USED:
 Tableau
+
 Figma(Background)
+
 [View Dashboard](https://public.tableau.com/app/profile/fathima.afrin7/viz/fitness_17552637039750/Overview)  
+
 Let’s connect on [LinkedIn](https://www.linkedin.com/in/fathima-afrin)  
 
